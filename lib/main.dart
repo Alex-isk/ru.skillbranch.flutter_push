@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: Text(
                       _getButtonText(),
                       style: TextStyle(
-                          fontSize: 35,
+                          fontSize: 38,
                           fontWeight: FontWeight.w900, // толщина шрифта Black
                           color: Colors.white),
                     ),
